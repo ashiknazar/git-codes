@@ -1,8 +1,8 @@
 # git-codes
 
 1 > # git help (a command)
- eg:<p> git help config </p>
+ eg:<p  style="color:blue;"> git help config </p>
  <br>
  
 2>  # same as above
-<p> git config --help </p>
+<p style="color:blue;"> git config --help </p>
