@@ -4,7 +4,7 @@
 
 </head>
 <body>
-  <h>git commands</h>
+  <h1>git commands</h1>
   <ol>
   <li>git help (a command)
     <ul>
