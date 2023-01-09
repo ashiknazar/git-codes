@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +13,7 @@
     </ul>
   </li>
     
-  <li>2> # same as above</li>
+  <li> # same as above</li>
   
 </ol> 
 
