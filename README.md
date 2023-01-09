@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>git_commands</title>
+
 </head>
 <body>
-  
+  <h>git commands</h>
   <ol>
   <li>git help (a command)
     <ul>
